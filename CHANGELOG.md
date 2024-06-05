@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/ublue-os/akmods/compare/v1.0.0...v1.0.1) (2024-06-05)
+
+
+### Bug Fixes
+
+* Correct typo causing modules not to build ([a1bc1ea](https://github.com/ublue-os/akmods/commit/a1bc1ea7fe68f4f69479f58b01fa615733fe2286))
+* **framework-laptop:** ensure only in one kmod stream ([#201](https://github.com/ublue-os/akmods/issues/201)) ([0c44cbf](https://github.com/ublue-os/akmods/commit/0c44cbfed53c148a002352f03b58a62731ab1655))
+* **zenergy:** remove from ASUS build to fix builder ([#199](https://github.com/ublue-os/akmods/issues/199)) ([2ead2b3](https://github.com/ublue-os/akmods/commit/2ead2b3b120739c2603fb9f51504bc57f7b9805e))
+
 ## 1.0.0 (2024-04-27)
 
 
